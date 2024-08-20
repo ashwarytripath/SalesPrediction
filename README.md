@@ -1,4 +1,4 @@
-## Project 3: Sales Prediction Using Machine Learning in Python
+## Sales Prediction Using Machine Learning in Python
 
 ### Overview
 Sales prediction involves forecasting product sales based on factors such as advertising expenditure, target audience segmentation, and advertising platform selection. This project aims to optimize advertising strategies and maximize sales potential.
